@@ -1,0 +1,4 @@
+target/
+.env
+*.log
+error.txt

@@ -1,0 +1,9 @@
+pub mod auth;
+pub mod home;
+pub mod games;
+pub mod rooms;
+pub mod chat;
+pub mod avalon;
+pub mod ai;
+pub mod profile;
+pub mod friends;
